@@ -28,7 +28,7 @@
     "gulp-uglify": "~1.0.1",
     "gulp-util": "~3.0.1",
     "interface.js": "latest",
-    "jquery": "~2.1.1",
+    "jquery": "~3.5.1",
     "jquery-commonjs": "~1.7.3",
     "production": "~0.0.2",
     "share": "0.7.3",
